@@ -1,0 +1,38 @@
+id: PB62E2098
+initial_creation_type: input
+source_metadata:
+  title: Kun spangs Chos grags dpals (fl. 14th cent.) Sems grel skor gsum lineage
+    history
+  author: kun spangs chos grags dpal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-10-19); head entries and linebreaks encoded, no folio numbers, revision in
+    process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:Sakya Research Centre; This text was digitally published by be
+    ri rig pa''i rdo rje/ (ed.), Tashi Choeling Buddhist Center (Charlottesville,
+    VA); sems ''grel
+
+    bla brgyud/ (Digital Text version/id: nges don sgron me/ 30, uploaded 25 /09/
+    2013). (src)'
+  - Text input:nang bstan rig mdzod nges don dpe tshogs 'phrul deb lte gnas/, Tashi
+    Choeling Buddhist Center (eds)
+  - Editorial process:nang bstan rig mdzod nges don dpe tshogs 'phrul deb lte gnas/
+    (ntrd), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/5049
+  bases:
+    4d0e:
+      title: Kun spangs Chos grags dpals (fl. 14th cent.) Sems grel skor gsum lineage
+        history
+      order: 1
+      base_file: 4d0e.txt
+created_at: '2022-04-15T18:33:34.224755'
+last_modified_at: '2022-04-15T18:33:34.224761'
+quality: null
